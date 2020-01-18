@@ -5,3 +5,5 @@ my_array.each do |num|
     temp += num
 end
 puts temp
+
+# puts (1..100).to_a.inject(:+)
